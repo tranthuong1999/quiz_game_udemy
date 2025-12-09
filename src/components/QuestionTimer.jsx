@@ -24,7 +24,6 @@ function QuestionTimer({ timeout, onTimeout }) {
     return (
         <>
             <progress id="question-time" max={timeout} value={remainingTime} />
-            {/* <span>{(remainingTime / 1000).toFixed(1)}s</span> */}
         </>
     );
 }
