@@ -1,9 +1,9 @@
 export default [
   {
     id: 'q1',
-    text: 'Which of the following definitions best describes React.js?',
+    text: '1 . Which of the following definitions best describes React.js?',
     answers: [
-    'A library to build user interfaces with help of declarative code. CORRECT',
+      'A library to build user interfaces with help of declarative code. CORRECT',
       'A library for managing state in web applications.',
       'A framework to build user interfaces with help of imperative code.',
       'A library used for building mobile applications only.',
@@ -11,7 +11,7 @@ export default [
   },
   {
     id: 'q2',
-    text: 'What purpose do React hooks serve?',
+    text: '2 .What purpose do React hooks serve?',
     answers: [
       'Enabling the use of state and other React features in functional components.CORRECT',
       'Creating responsive layouts in React applications.',
@@ -21,7 +21,7 @@ export default [
   },
   {
     id: 'q3',
-    text: 'Can you identify what JSX is?',
+    text: '3 .Can you identify what JSX is?',
     answers: [
       'A JavaScript extension that adds HTML-like syntax to JavaScript.CORRECT',
       'A JavaScript library for building dynamic user interfaces.',
@@ -31,7 +31,7 @@ export default [
   },
   {
     id: 'q4',
-    text: 'What is the most common way to create a component in React?',
+    text: '4 .What is the most common way to create a component in React?',
     answers: [
       'By defining a JavaScript function that returns a renderable value.CORRECT',
       'By defining a custom HTML tag in JavaScript.',
@@ -41,7 +41,7 @@ export default [
   },
   {
     id: 'q5',
-    text: 'What does the term "React state" imply?',
+    text: '5 .What does the term "React state" imply?',
     answers: [
       'An object in a component that holds values and may cause the component to render on change.CORRECT',
       'The lifecycle phase a React component is in.',
@@ -51,7 +51,7 @@ export default [
   },
   {
     id: 'q6',
-    text: 'How do you typically render list content in React apps?',
+    text: '6 .How do you typically render list content in React apps?',
     answers: [
       'By using the map() method to iterate over an array of data and returning JSX.CORRECT',
       'By using the for() loop to iterate over an array of data and returning JSX.',
@@ -61,7 +61,7 @@ export default [
   },
   {
     id: 'q7',
-    text: 'Which approach can NOT be used to render content conditionally?',
+    text: '7 .Which approach can NOT be used to render content conditionally?',
     answers: [
       'Using a the #if template syntax.CORRECT',
       'Using a ternary operator.',
